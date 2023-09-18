@@ -1,0 +1,12 @@
+
+
+.fontuser{
+  position: relative;
+}
+
+.fontuser i{
+  position: absolute;
+  right: 15px;
+  top: -30px;
+  color: gray;
+}
